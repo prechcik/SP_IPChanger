@@ -1,0 +1,12 @@
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\bin\Debug\SP_IPChanger.exe.config
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\bin\Debug\SP_IPChanger.exe
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\bin\Debug\SP_IPChanger.pdb
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.csproj.AssemblyReference.cache
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.csproj.SuggestedBindingRedirects.cache
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.Form1.resources
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.Properties.Resources.resources
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.csproj.GenerateResource.cache
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.csproj.CoreCompileInputs.cache
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.exe
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.pdb
+D:\SP_IPChanger\SP_IPChanger\SP_IPChanger\obj\Debug\SP_IPChanger.ProgramPathsForm.resources
